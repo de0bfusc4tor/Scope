@@ -70,5 +70,5 @@ _This software is free and not affiliated with Torso Electronics. Don't forget t
 
 ---
 
-<p align="center"><code>𝕾𝖈𝖔𝖕𝖊 𝖁𝖎𝖘𝖚𝖆𝖑𝖘</code></p>
+<p align="center"><code>𝕯𝖊𝖔𝖇𝖋𝖚𝖘𝖈𝖆𝖙𝖊</code></p>
 <p align="center">2026</p>

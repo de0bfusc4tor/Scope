@@ -43,7 +43,7 @@
 
 ---
 
-## 𝐈𝐧𝐭𝐞𝐫𝐟𝐚𝐜𝐞 𝐂𝐨𝐧𝐭𝐫𝐨𝐥𝐬
+## 𝐈𝐧𝐭𝐞𝐫𝐟𝐚𝐜𝐞 & 𝐂𝐨𝐧𝐭𝐫𝐨𝐥𝐬
 
 - **Banks**: 16-step grid for quick navigation across the `T-1`'s internal architecture.
 - **Patterns & Tracks**: 16-step grid Visual of the active pattern and track index from the `T-1`.

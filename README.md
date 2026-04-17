@@ -69,6 +69,6 @@ _This software is free and not affiliated with Torso Electronics. Don't forget t
 
 ---
 
-<p align="center"><img width="227" height="198" alt="Logo Samurai Horse Round Small" src="https://github.com/user-attachments/assets/413dba2b-54d8-4c11-92ed-0a69f6c18a5f" /></p>
+<p align="center"><img width="91" height="78" alt="Logo_Deobfuscate_RoundXS" src="https://github.com/user-attachments/assets/0faedbc2-0d4c-479d-86ce-6f65d75733f8" /></p>
 <p align="center"><code>𝕯𝖊𝖔𝖇𝖋𝖚𝖘𝖈𝖆𝖙𝖊</code></p>
 <p align="center">2026</p>
